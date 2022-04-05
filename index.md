@@ -28,6 +28,7 @@ layout: default
 - **[csv-emoji-separator](https://github.com/pbinkley/csv-emoji-separator/)** For csv with column containing emojis, create colums 'emojis' and 'emoji_names" (2020)
 - **[If_I_Should_Die_Tonight](https://github.com/pbinkley/If_I_Should_Die_Tonight/)** Rails app to collect newspaper data on poems called "If I Should Die Tonight" (2021)
 - **[recipebook](https://github.com/pbinkley/recipebook/)** ([site 🔗](https://pbinkley.github.io/recipebook/)) Wax site for a digitized 19th-century recipe book (2020-2021)
+- **[robertson-stone](https://github.com/pbinkley/robertson-stone/)** ([site 🔗](https://pbinkley.github.io/robertson-stone)) Sidney Robertson and John Stone (2020)
 - **[wpa-workers](https://github.com/pbinkley/wpa-workers/)** ([site 🔗](https://pbinkley.github.io/wpa-workers/)) WPA white-collar workers in Cleveland, April 1940: visualization using Wax (2020-2021)
 
 ### Data Projects
