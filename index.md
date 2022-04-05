@@ -6,9 +6,12 @@ layout: default
 
 ### IIIF
 
+- **[iiif-builder](https://github.com/ualbertalib/iiif-builder)** Scripts to build IIIF manifests from METS and other sources, for use in [iiif-experiments](https://github.com/ualbertalib/iiif-experiments) 
+- **[iiif-experiments](https://github.com/ualbertalib/iiif-experiments)** ([site 🔗](https://ualbertalib.github.io/iiif-experiments/)) Informal experiments with IIIF manifests and annotations 
 - **[iiif-firefox-annotation-extract](https://github.com/pbinkley/iiif-firefox-annotation-extract/)** Ruby script to extract Mirador-created annotations from Firefox local storage (2020)
 - **[iiif-manifest-enhancer](https://github.com/pbinkley/iiif-manifest-enhancer/)** Scripts to help enhance a plain manifest with an OCR-based table of contents (2019)
 - **[jekyll-waxify](https://github.com/pbinkley/jekyll-waxify/)** A Jekyll plugin that installs basic minicomp/wax components (2021)
+- **[metsalto2iiif ](https://github.com/ualbertalib/metsalto2iiif)** Experimental project to build a full IIIF manifest from the METS/ALTO for a newspaper issue  
 - **[postwax](https://github.com/pbinkley/postwax/)** Some post-processing workarounds for minicomp/wax  (2020)
 - **[wax-community-archive](https://github.com/pbinkley/wax-community-archive/)** A Wax gallery for community-submitted photos (2020)
 - **[wax-plus-staticSearch](https://github.com/pbinkley/wax-plus-staticSearch/)** An investigation of adding staticSearch to Wax (2020-2022)
@@ -33,6 +36,7 @@ layout: default
 
 ### Data Projects
 
+- **[AccessLibCon/conference-data](https://github.com/AccessLibCon/conference-data)** Program data for each conference, and some scripts and derivatives
 - **[covid-cases](https://github.com/pbinkley/covid-cases/)** Data for "Stitching the Curve" (knitting Canadian COVID-19 case data) (2020-2021)
 - **[tweets-libraries-covid19](https://github.com/pbinkley/tweets-libraries-covid19/)** ([site 🔗](https://pbinkley.github.io/tweets-libraries-covid19/)) A twarc harvest of tweets related to libraries during the COVID-19 outbreak, starting 2020-03-02  (2020-2021)
 - **[tweets-national-emergency-library](https://github.com/pbinkley/tweets-national-emergency-library/)** ([site 🔗](https://pbinkley.github.io/tweets-national-emergency-library/)) A twarc harvest of tweets related to Internet Archive's National Emergency Library (2020-03-23 to 2021-02-13) (2020-2021)
