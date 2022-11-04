@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
+title: Some projects on GitHub
+author_profile: true
+header:
+  image: /assets/images/snowflakes.jpg
 ---
-
-## Some projects
 
 ### IIIF
 
