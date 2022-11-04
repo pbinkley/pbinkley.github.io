@@ -7,7 +7,7 @@ url: "https://pbinkley.github.io" # the base hostname & protocol for your site, 
 twitter_username: pabinkley
 github_username:  pbinkley
 
-theme: jekyll-theme-slate
+theme: minimal-mistakes-jekyll
 
 github:
   is_project_page: false
