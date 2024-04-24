@@ -17,6 +17,7 @@ header:
 - **[postwax](https://github.com/pbinkley/postwax/)** Some post-processing workarounds for minicomp/wax  (2020)
 - **[wax-community-archive](https://github.com/pbinkley/wax-community-archive/)** A Wax gallery for community-submitted photos (2020)
 - **[wax-plus-staticSearch](https://github.com/pbinkley/wax-plus-staticSearch/)** An investigation of adding staticSearch to Wax (2020-2022)
+- **[carmina-burana-manuscript-reordered](https://pbinkley.github.io/carmina-burana-manuscript-reordered/)** The *Carmina Burana* manuscript with the leaves restored to their original order (2024)
 
 ### Minimal Computing with Jekyll (non-IIIF)
 
