@@ -17,7 +17,6 @@ header:
 - **[postwax](https://github.com/pbinkley/postwax/)** Some post-processing workarounds for minicomp/wax  (2020)
 - **[wax-community-archive](https://github.com/pbinkley/wax-community-archive/)** A Wax gallery for community-submitted photos (2020)
 - **[wax-plus-staticSearch](https://github.com/pbinkley/wax-plus-staticSearch/)** An investigation of adding staticSearch to Wax (2020-2022)
-- **[carmina-burana-manuscript-reordered](https://pbinkley.github.io/carmina-burana-manuscript-reordered/)** The *Carmina Burana* manuscript with the leaves restored to their original order (2024)
 
 ### Minimal Computing with Jekyll (non-IIIF)
 
@@ -36,6 +35,7 @@ header:
 - **[recipebook](https://github.com/pbinkley/recipebook/)** ([site 🔗](https://pbinkley.github.io/recipebook/)) Wax site for a digitized 19th-century recipe book (2020-2021)
 - **[robertson-stone](https://github.com/pbinkley/robertson-stone/)** ([site 🔗](https://pbinkley.github.io/robertson-stone)) Sidney Robertson and John Stone (2020)
 - **[wpa-workers](https://github.com/pbinkley/wpa-workers/)** ([site 🔗](https://pbinkley.github.io/wpa-workers/)) WPA white-collar workers in Cleveland, April 1940: visualization using Wax (2020-2021)
+- **[carmina-burana-manuscript-reordered](https://pbinkley.github.io/carmina-burana-manuscript-reordered/)** The *Carmina Burana* manuscript with the leaves restored to their original order, using IIIF (2024)
 
 ### Data Projects
 
