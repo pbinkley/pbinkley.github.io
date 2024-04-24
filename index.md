@@ -57,4 +57,4 @@ header:
 - **[dearing](https://github.com/pbinkley/dearing/)** Generate a pdf to print edge-notched index cards from a data file (2021-2022)
 - **[js-typewriter](https://github.com/pbinkley/js-typewriter/)** ([site 🔗](https://pbinkley.github.io/js-typewriter/)) Typewriter sound effects matched to text (2020)
 - **[mfmcollections](https://github.com/pbinkley/mfmcollections/)** Project to distill data about published collections of microfilms from library lists (2019)
-- **[type-comparison](https://github.com/pbinkley/type-comparison/)** A Ruby script to help compare typefaces of documents, using Tesseractt OCR (2021)
+- **[type-comparison](https://github.com/pbinkley/type-comparison/)** A Ruby script to help compare typefaces of documents, using Tesseract OCR (2021)
