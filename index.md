@@ -36,7 +36,7 @@ header:
 - **[robertson-stone](https://github.com/pbinkley/robertson-stone/)** ([site 🔗](https://pbinkley.github.io/robertson-stone)) Sidney Robertson and John Stone (2020)
 - **[wpa-workers](https://github.com/pbinkley/wpa-workers/)** ([site 🔗](https://pbinkley.github.io/wpa-workers/)) WPA white-collar workers in Cleveland, April 1940: visualization using Wax (2020-2021)
 - **[textract_eval](https://github.com/pbinkley/textract_eval/)** ([site 🔗](https://pbinkley.github.io/textract_eval/)) An evaluation of AWS Textract OCR for handwritten texts, 1920-1940 (with CER and WER values) (2022)
-- **[A Map of the Summa Praedicantium](https://pbinkley.github.io/SP-map/)** A navigational aid for a large 14th-century encyclopedia for preachers, using the IIIF representation of a copy of the *editio princeps* (2023)
+- **[A Map of the Summa Praedicantium](https://pbinkley.github.io/SP-map/)** A navigational aid for John Bromyard's encyclopedia for preachers (14th-century), using the IIIF representation of a copy of the *editio princeps* (2023)
 - **[carmina-burana-manuscript-reordered](https://pbinkley.github.io/carmina-burana-manuscript-reordered/)** The *Carmina Burana* manuscript with the leaves restored to their original order, using IIIF (2024)
 
 ### Data Projects
